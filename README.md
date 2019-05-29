@@ -9,18 +9,17 @@ Get you a copy of the project up and add on your project
 
 ## Functions
 
-Read char:
-    uart_getc()
-Send char:
-    uart_putc(char data)
-Send int:
-    uart_putint(int val)
-Send test:
-    uart_puts(char *str)
+#Read char:
+uart_getc()
+#Send char:
+uart_putc(char data)
+#Send int:
+uart_putint(int val)
+#Send text:
+uart_puts(char *str)
 
 
 ## Authors
-
 
 m9aciej
 
